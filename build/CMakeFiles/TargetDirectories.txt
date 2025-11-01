@@ -1,0 +1,4 @@
+/home/matt/games/endoparasitic_clone/build/CMakeFiles/glad.dir
+/home/matt/games/endoparasitic_clone/build/CMakeFiles/endoparasitic_clone.dir
+/home/matt/games/endoparasitic_clone/build/CMakeFiles/edit_cache.dir
+/home/matt/games/endoparasitic_clone/build/CMakeFiles/rebuild_cache.dir
